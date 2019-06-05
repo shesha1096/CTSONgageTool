@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CTSO Ngage Tool</string>
+
+    <string-array name="teamNames">
+        <item>Please Select a Team</item>
+        <item>CTSO Eagles</item>
+        <item>Gully Boys</item>
+        <item>Professional Pirates</item>
+        <item>TrailBlazers</item>
+        <item>A Team</item>
+        <item>Rampage</item>
+        <item>Goal Digger</item>
+    </string-array>
+</resources>

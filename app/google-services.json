@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677589757979",
+    "firebase_url": "https://stepupapp-6dd29.firebaseio.com",
+    "project_id": "stepupapp-6dd29",
+    "storage_bucket": "stepupapp-6dd29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677589757979:android:dba904fc587740cc",
+        "android_client_info": {
+          "package_name": "com.projects.jsheshashankar.stepupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677589757979-oqapcbnv6rhn7acub0lt19dov6p0oih4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.jsheshashankar.stepupapp",
+            "certificate_hash": "8adea1f038302eb0989653724a2f0953859a6a1c"
+          }
+        },
+        {
+          "client_id": "677589757979-a54m4e9fv0usl1jtdpgchvrtlqmleomm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAzOG0mi9lf_eI5WQ763ZhqYkliIpNkqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677589757979-a54m4e9fv0usl1jtdpgchvrtlqmleomm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
